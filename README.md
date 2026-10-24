@@ -29,8 +29,18 @@ docker compose up --build -d
 
 ## Версии
 
-[Первая итерация](https://github.com/Assweg/crpted) · [Версия с Docker](https://github.com/Assweg/crpted2) · [Курсовые материалы](https://github.com/Assweg/nstu/tree/main/3sem/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F).
+[Первая итерация](https://github.com/Assweg/crpted) · [Версия с Docker](https://github.com/Assweg/crpted2) · [Курсовые материалы](https://github.com/Assweg/nstu).
 
 ---
 
-[Все учебные работы](https://github.com/Assweg/nstu) · [Профиль Assweg](https://github.com/Assweg)
+[Каталог учебных репозиториев](https://github.com/Assweg/nstu) · [Профиль Assweg](https://github.com/Assweg)
+
+## Материалы из локальной папки
+
+Исходники и документы этой работы собраны в этом репозитории.
+
+[data](data/) · [db](db/) · [public](public/) · [reports](reports/) · [views](views/)
+
+### Отчёты и документы
+
+- [Курсовая работа печать.docx](reports/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C.docx)
